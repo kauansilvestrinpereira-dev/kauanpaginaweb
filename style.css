@@ -24,8 +24,11 @@
            article{
                display: flex;
 
-               border: 1px solid 3
-               #000000;
+               border: 1px solid #000000;
+
+               margin: 16px;
+               gap: 16px;
+               padding: 16px;
            }
 
 
