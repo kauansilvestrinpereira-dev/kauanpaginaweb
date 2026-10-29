@@ -23,6 +23,9 @@
            }
            article{
                display: flex;
+
+               border: 1px solid 3
+               #000000;
            }
 
 
