@@ -20,6 +20,7 @@
                padding: 16px;
 
                display: flex;
+               flex-wrap: wrap;
            }
            article{
                display: flex;
